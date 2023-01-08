@@ -1,0 +1,242 @@
+* {
+    font-family: 'Work Sans', sans-serif;
+}
+
+.header {
+    background-image: url(../images/banner/banner2.png);
+    margin-top: 0px;
+    width: 1600px;
+    height: 809px;
+    left: 1600px;
+}
+
+
+.banner {
+
+    padding-top: 216px;
+    font-weight: 80;
+    font-size: 20px;
+    width: 583px;
+    height: 330px;
+    margin: 0px 230px 365px 845px;
+
+
+}
+
+.btnstyle {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    background-color: #FD6E0A;
+    height: 64px;
+    border-radius: 5px;
+    padding: 18px 35px;
+    margin-left: 280px;
+}
+
+.bannerintro {
+    margin-bottom: 0px;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    margin-top: 0px;
+
+}
+
+.bannerintros {
+    margin-left: 230px;
+    font-weight: 700;
+    font-size: 65px;
+    margin-top: 0px;
+}
+
+.bannerdes {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    width: 494px;
+    height: 78px;
+}
+
+/* main */
+.myprevfailure {
+    width: 1000px;
+    height: 723.3px;
+    margin-left: 206px;
+    margin-right: 322px;
+    margin-top: 130px;
+
+
+
+}
+
+.sectionContainer {
+    display: flex;
+
+
+}
+
+.besidepic {
+
+
+    width: 416px;
+    height: 400px;
+    margin-top: 300px;
+    margin-left: 87px;
+
+
+}
+
+.para {
+    font-weight: 400;
+    font-size: 16px;
+}
+
+
+.mainlist {
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.failh {
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.myplans {
+    margin: 130px 230px;
+
+
+}
+
+.skillone {
+
+    font-weight: 700;
+    font-size: 30px;
+    margin-left: 2px;
+
+}
+
+.skillpara {
+    font-weight: 500;
+    font-size: 25px;
+    margin-left: 5px;
+    margin-top: 2px;
+}
+
+.skillset {
+
+    display: flex;
+    justify-content: space-between
+}
+
+.secondhead {
+    font-weight: 700;
+    font-size: 40px;
+    margin-left: 750px;
+    margin-bottom: 100px;
+}
+
+.thirddiv {
+    background-image: url(../images/gradient2.png), url(../images/watch.png), linear-gradient(red, yellow);
+    width: 1140px;
+    height: 300px;
+    margin-top: 130px;
+    margin-bottom: 130px;
+    margin-left: 70px;
+    margin-right: 300px;
+
+}
+
+.insidethird {
+    padding-left: 64px;
+    padding-right: 716px;
+    padding-top: 59px;
+    padding-top: 59px;
+    padding-bottom: 59px;
+
+
+}
+
+.insidehead {
+    left: 294px;
+    top: 2275.3px;
+    font-weight: 700;
+    font-size: 40px;
+
+
+}
+
+.btnbelow {
+    color: orange;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    background-color: white;
+    height: 64px;
+    border-radius: 5px;
+    padding: 18px 35px;
+    width: 160px;
+    height: 64px;
+
+
+
+}
+
+
+/* footer */
+.foot {
+    background-color: black;
+    color: white;
+    width: 1600px;
+    height: 700px;
+}
+
+
+.footParentdiv {
+    display: flex;
+    justify-content: space-between;
+    margin: 130px 885px 130px 230px;
+    padding-top: 130px;
+}
+
+.icons {
+    display: flex;
+    
+    margin-top: 5px;
+    margin-left: 3px;
+    margin-right: 4px;
+    justify-content: space-evenly;
+    
+}
+
+.footerleftdes {
+    font-weight: 400;
+    font-size: 16px;
+    width: 485px;
+    height: 78px;
+    margin-top:5px;
+}
+
+.childright {
+
+
+    width: 325px;
+    height: 204px;
+    margin-left: 600px;
+}
+
+.footrighthead {
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.input {
+    background-color: black;
+    border-radius: 12px;
+    width: 250px;
+    height: 64px;
+    color: white;
+
+}
